@@ -1,0 +1,266 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration from His Majestie the King of Scots wherein is declared how the army shall be fully satisfied all their arrears with a large overplus, together with an assurance of indempnity to all that have been engaged and and active in any the late wars, that all armies shall be disbanded, and his goverament always regulated by a free and full parliament triennially called, and the people secured of their liberties and eased of their illegal burthens and taxes, also A letter to the Right Honourable the Lord Lambert from a lover of peace and truth being a most faithful advice how to chuse the safest way to the happy ending of all our distractions.</title>
+            <author>Scotland. Sovereign (1649-1685 : Charles II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08718</idno>
+            <idno type="STC">Wing C2971</idno>
+            <idno type="STC">ESTC R171211</idno>
+            <idno type="EEBO-CITATION">61296919</idno>
+            <idno type="OCLC">ocm 61296919</idno>
+            <idno type="VID">180498</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08718)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180498)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2831:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration from His Majestie the King of Scots wherein is declared how the army shall be fully satisfied all their arrears with a large overplus, together with an assurance of indempnity to all that have been engaged and and active in any the late wars, that all armies shall be disbanded, and his goverament always regulated by a free and full parliament triennially called, and the people secured of their liberties and eased of their illegal burthens and taxes, also A letter to the Right Honourable the Lord Lambert from a lover of peace and truth being a most faithful advice how to chuse the safest way to the happy ending of all our distractions.</title>
+                  <author>Scotland. Sovereign (1649-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+                  <author>S. L. Letter to the right honorable the Lord Lambert.</author>
+               </titleStmt>
+               <extent>[6], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes title: A letter to the Right Honorable the Lord Lambert ... also, A declaration from the King of Scots ...</note>
+                  <note>Irregular pagination: in first sequence, page 5 wrongly numbered 7.</note>
+                  <note>Titles printed twice in reverse order.</note>
+                  <note>Reproduction of original in: University of Chicago. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lambert, John, 1619-1683.</term>
+               <term>Scotland --  History --  1649-1660 --  Pamphlets.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+               <term>Great Britain --  Politics and government --  1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:180498:1"/>
+                  <pb facs="tcp:180498:1" rendition="simple:additions"/>
+                  <p>A DECLARATION FROM His Majeſtie the KING OF SCOTS, VVherein is declared how the <hi>Army</hi> ſhall be fully ſatisfied all their Arrears, with a large Overplus.</p>
+                  <p>TOGETHER VVith an Aſſurance of Indempnity to all that have been enga<g ref="char:EOLhyphen"/>ged, and active in any the late Wars. That all Armies ſhall be disbanded, and His Government always regulated by a Free and Full Parliament, triennially called: And the People ſecu<g ref="char:EOLhyphen"/>red of their Liberties, and eaſed of their Illegal Burthens and Taxes.</p>
+                  <p>ALSO A <hi>Letter</hi> to the Right Honourable The Lord LAMBERT <hi>From a Lover of Peace and Truth.</hi>
+                  </p>
+                  <p>Being a moſt faithful Advice how to chuſe the ſafeſt way to the happy ending of all our Diſtractions.</p>
+                  <p>
+                     <hi>LONDON,</hi> Printed in the Year 1659.</p>
+               </div>
+            </front>
+            <body>
+               <div type="letter">
+                  <pb facs="tcp:180498:2" rendition="simple:additions"/>
+                  <pb n="1" facs="tcp:180498:2"/>
+                  <opener>
+                     <salute>
+                        <hi>CHARLS</hi> R.</salute>
+                  </opener>
+                  <p>WE having lately received an Overture from ſome per<g ref="char:EOLhyphen"/>ſons In <hi>England,</hi> with a ſeeming pretence of a Peace and Reconcilement betwizt Us and out Subjects of <hi>England,</hi> and although they acknowledge themſelves few in number, and not ſo well reſolved as to truſt us with their Names, yet undertake on the behalf of many thouſands, to make good their propoſitions to us, conditionally, that we grant and aſſure unto them, their (as they call them, reaſonable and modeſt) requeſts; whether theſe mens Intentions are juſt and upright, as they pretend, or whether with <hi>Joab</hi>'s ſalutation to <hi>Abner,</hi> they would entrap us to our deſtruction; or with <hi>Shimei,</hi> come the firſt of all the Houſe of <hi>Joſeph</hi> to meet us, not being able to ſupport themſelves in their decaying condition, we ſhall not be much deſirous to enquire after: Only from hence we take oc<g ref="char:EOLhyphen"/>caſion to let thoſe perſons, and all the world know, that we are ready to grant to all our Subjects (ſome very few excepted) more than they can have the confidence to expect from us: Yet let not any raſh judgement condemn us for our large Offers, as being in ſo low, and forlorn a Condition, as never any Chriſtian Prince for many Ages hath been; That we are forward in promiſes, though intend little or no performance: We ſay, were our calamity more heavy upon us (which can hardly be) we ſhall not be drawn by the greateſt allurements and advantages to paſs our engagement for any thing we are nor fully reſolved co perform, which being chiefly for the general good &amp; peace of all our Subsects, we can<g ref="char:EOLhyphen"/>not but hope for a happy ſucceſs to enſue, and therefore to de<g ref="char:EOLhyphen"/>clare that (if peaceably receiv'd) we ſhall forthwith grant,</p>
+                  <p n="1">1. A general and free pardon to all (ſeven of thoſe onely ex<g ref="char:EOLhyphen"/>cepted, which were the bloody Judges and Murderers of the King our Father.)</p>
+                  <p n="2">2. That all the Armies ſhall be within ſix months disbanded, if moneys for their ſatisfaction can in a Parliamentary way be ſo ſoon raiſed, and that they ſhall have all Arrears fully payed them, and three months pay over and above to every common Souldier, for their better removal and ſettlement, in their former or bet<g ref="char:EOLhyphen"/>ter way and place of living.</p>
+                  <p n="3">3. That the Armies being ſo ſatisfied and disbanded, no Soul<g ref="char:EOLhyphen"/>dier ſhall be continued, but in the antient Garriſonr, accuſtomed on the Sea Coaſta, and that no new Army ſhall be raiſed, or any
+<pb n="2" facs="tcp:180498:3"/>Fleet by us ſet forth to Sea, upon any occaſion whatſoever, but by conſent of Parliament.</p>
+                  <p n="4">4. That not any of Our Subjects ſhall be burdened with Taxes, Exciſe, Free-quartering, or other illegal payments or preſſures, or any Oaths impoſed, nor any debarred of their Liberties, que<g ref="char:EOLhyphen"/>ſtioned for their Lives or Eſtates, for any cauſe or pretence whatſoever, but by the antient and known Laws of the Land, ac<g ref="char:EOLhyphen"/>cording to <hi>Magna Charta,</hi> and the <hi>Petition of Right.</hi>
+                  </p>
+                  <p n="5">5. That the Purchaſers of Crown-Lands and Rents being ſatis<g ref="char:EOLhyphen"/>fied their purchaſe-mony and intereſts by the profits thereof, &amp; further payment to their full Reimburſement, The ſaid Lands &amp; Rents may return to the Crown again, we being reſolved in the mean time to caſt our Self on the love of our Subjects for our fu<g ref="char:EOLhyphen"/>ture ſupport: And if the Parliament (that ſhall next be call'd) ſhall not think fit to give us a reparation, &amp; ſuch a competent revenue as we might expect, we have learned, and ſhall ſubmit (if there be occaſion) to the condition of the meaneſt of our Predeceſſors.</p>
+                  <p n="6">6. That the Purchaſers of Biſhops and Deans and Chapters Lands and Rents, being in like ſort ſatisfied, their purchaſe-mo<g ref="char:EOLhyphen"/>ny and intereſt by the profits &amp; further payment, till they be re<g ref="char:EOLhyphen"/>imburſed, that then the ſaid Lands and Rents ſhall be conferred on the Clergy and Miniſtry, as the next Parliament ſhall ordain.</p>
+                  <p n="7">7. That as ſoon as Writs can be iſſued, a free and legal Parli<g ref="char:EOLhyphen"/>ament ſhall be ſummoned, and the privileges thereof maintain<g ref="char:EOLhyphen"/>ed, without any exemption to any perſon whatſoever, being le<g ref="char:EOLhyphen"/>gally choſen and returned, according to the antient Laws and Cuſtoms of <hi>Englund</hi> in that caſe provided.</p>
+                  <p n="8">8. That the Parliament ſhall be deſired by us (and with whom we ſhall concur) to take care for the ſetling of the Proteſtant Re<g ref="char:EOLhyphen"/>ligion, and the publick worſhip of God (with liberty for tender Conſciences) and for the providing for the Miniſtry in the firſt place, as being the moſt weighty affair, and ought to be preferred before any other Concernment whatſoever, without which no bleſſing from above can be expected upon our Government.</p>
+                  <p n="9">9. That if the Parliement ſhall paſs an Act of general Pardon, (and if they ſhall deſire thoſe ſeven perſons by us intended to be executed, ſhall be included, and giving us ſatisfactory reaſons for the ſame) we ſhall concur with them therein.</p>
+                  <p n="10">10. That the affairs of the Land and our Government ſhall be Conſtantly regulated and managed by Parliaments, and that the Act for Triennial Parliaments ſhall be by us duly obſerved.</p>
+                  <pb n="3" facs="tcp:180498:3" rendition="simple:additions"/>
+                  <p>We acknowledge it is very difficult, if not impoſſible, to pleaſe all, eſpecialy where there are ſo many diviſions, and every man almoſt of a ſeveral mind and opinion: But as we have propoſed too ur Self, ſo ſhall we endeavour to give all reaſona<g ref="char:EOLhyphen"/>ble Satisfaction to all our Subjects. And if the Actings of the Repreſentatives in a Free Parliament of their own choice can ſa<g ref="char:EOLhyphen"/>tisfie them, we ſhall not be wanting in ſummoning and concur<g ref="char:EOLhyphen"/>ring with them: But if that will not pleaſe them, nothing will.</p>
+                  <p>Now, if theſe condeſcentions of ours ſhall have ſo much free<g ref="char:EOLhyphen"/>dome of paſſage in <hi>England,</hi> as many a ſcurrilous and lying Pamphlet fly abroad without our control, we are confident that all of underſtanding, that are not wilfully blinded, or not over-ſwayed with preſent ſelf-intereſt, thereby knowing our large Offers, muſt needs be fully convinced of the amplitude thereof, extending to all their grievances.</p>
+                  <p>However, if it ſhall be inſtanced wherein we are too ſhort, (for we are ready, for the Good, and Peace of the Nation, to give large ſatisfaction, and ample aſſurance to our moſt invete<g ref="char:EOLhyphen"/>rate Enemies;) We having yeelded to all matters of moſt im<g ref="char:EOLhyphen"/>portance, ſhall not ſtick at leſſer things.</p>
+                  <p>And if any that have been adherers and aſſiſting to our late royal Father and us, ſhall think we are herein too free and indulgent to ſuch, and ſo many open and profeſſed Enemies; and that we have made no proviſion for our Servants, and Friends; we deſire them all to conſider our own, and alſo their Conditions, and how things now ſtand in <hi>England;</hi> that neither we, nor them<g ref="char:EOLhyphen"/>ſelvs, can otherwiſe (in any probability) better our ſelvs, unleſs by a bloody and hazzardous War; which though we cannot doubt of the lawfullneſſe on our part, and conſequently a proſ<g ref="char:EOLhyphen"/>ſperous ſucceſſe, if we ſhall be neceſſitated thereto for the recovery of our juſt right, yet we are aſſured, that the God of peace will rather proſper a peaceable than violent and forceable entrance: And therefore we hope all thoſe our friends, and lo<g ref="char:EOLhyphen"/>ving Subjects, will reſt fully ſatisfied with that we ſhall do pur<g ref="char:EOLhyphen"/>ſuant to theſe propoſitions, we being deſirous hereafter to conſi<g ref="char:EOLhyphen"/>der their ſufferings (though not comparable to ours) as God ſhall enable, and in all juſt and lawfull ways.</p>
+                  <p>And now we wiſh, that all the people of <hi>England</hi> would re<g ref="char:EOLhyphen"/>member how they have performed their Proteſtations, Oaths, Vows, Solemn League and Covenant: But to inſtance in no
+<pb n="4" facs="tcp:180498:4" rendition="simple:additions"/>more than the Honour and Priviledges of Parliament, the foun<g ref="char:EOLhyphen"/>dation of all their laws, which they have ſo often ſworn and vowed to maintain with their liues and fortunes: what face of a Parliament they have now left, which ſhould conſiſt of three Eſtates, King, Houſe of Peers, and Houſe of Commons: The two firſt wholly deſtroyed: And what of the laſt is in being (not to mention at leaſt 150 that at the beginning of the Wars left them and went to <hi>Oxford</hi>) when a conſiderable number of their own party proteſted againſt their proceedings, and deſerted the Houſe; How many impriſoned, and what great numbers by force expulſed by that late bloody &amp; hypocritical Uſurper, which actions of his (though they were a main ſtep to his intended Throne and Tyrannical Goverment) yet are to well reliſhed, By that Tail of a Parliament remaining, that they are reſolved neither to readmit the perſons ſo illegally and injuriousſly expell<g ref="char:EOLhyphen"/>ed, nor to fill up the void places of any removed or dead: ſo that in a few year<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, what by death and new expulſion., they may reduce themſelvs to the number of thoſe infamous Tyrants of <hi>Athens,</hi> and if they can eſtabliſh themſelvs by their deſigned <hi>Militia,</hi> and that they may thereby be able to command their now maſters, the Sword-men, and Caſhire them, they will mod<g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> ſuch a nevv Army as ſhall be in ſubjection to them, and then Vote themſelvs, their Sons, and Nephews, a Parliament for ever,</p>
+                  <p>Let thoſe that have generous <hi>Engliſh</hi> Spirits ſeriouſly conſider into what a Labyrinth of woe and: miſery they have run them<g ref="char:EOLhyphen"/>ſelvs and now lyc under; what a confuſion there is in Church and State; that what hath been gotten by blood and rapine, muſt be ſo upheld; The Government theſe Uſurpers would ſettle, not being to be maintained, but by continual Armies &amp; Navies, and he ſupport of theſe muſt be Taxes, Exciſe, Free-quarterings, and chargeable <hi>Militia</hi>'s and other unſupportable burdens to perpetuity<g ref="char:punc">▪</g>
+                  </p>
+                  <p>Now let the whole Nation beg and implore a bleſſing from the Father of Mercies, and let them all be of one heart and one mind, to free themſelvs of theſe Iron yokes and heavy preſſures, and joyn and concur<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> with us, in eſabliſhing a peaceable Go<g ref="char:EOLhyphen"/>vernment, to the great joy and happineſs of the honeſt and true-hearted, and to the sdvancement of the true Proteſtant Religion and God glory. And let them all unanimouſly with one Voyce ſay, <hi>Amen.</hi>
+                  </p>
+                  <p>A true Copy taken from the Original.</p>
+               </div>
+               <div type="letter">
+                  <pb n="7" facs="tcp:180498:4"/>
+                  <head>A <hi>Letter</hi> to the Right Honorable The Lord <hi>LAMBERT.</hi>
+                  </head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>LEt it not be a Trouble to you to read a few Lines from one unknown, but a much ho<g ref="char:EOLhyphen"/>nourer of your Noble Spirit, and therefore deſirous to caſt in this dram of Advice among thoſe many &amp; weighty Debates now before you.</p>
+                  <p>If I ſhould tell you of divers that had a power or capacity to contribute to, or reſtore Peace to theſe Nations, and have neglected the oportuni<g ref="char:EOLhyphen"/>ties which they have ſince repented of, I am confident you would, even your ſelf, point put the men; namely, <hi>Eſſex, Fairfax, Waller, Maſſey, Brown, Rich, Cromwell,</hi> and others.</p>
+                  <p>
+                     <hi>Sir,</hi> We look upon you at this inſtant as ha<g ref="char:EOLhyphen"/>ving the whole ſtrength of the Nation in your hands; but if you expect to hold it long, you will be miſerably deceived: Therefore I beſeech you make good uſe of this happy opportunity, and conſider how great you may make your ſelf, and how glorious you will be to poſterity, if you be a means of laying the Government on the ſhoul<g ref="char:EOLhyphen"/>ders of Him that ought to bear it, which will in an inſtant reſtore a happy Peace and Settlement to this diſtracted Nation: Certainly the great<g ref="char:EOLhyphen"/>eſt eſt honour, and a better eſtate than any <hi>Engliſh</hi> Subject enjoyes ſhall be your reward. But if you doubt how the Souldier, and Perſons deeply
+<pb n="6" facs="tcp:180498:5"/>concerned, that ſhall concur with you ſhall be ſecured and ſatisfied; See this Deelaration, that to my knowledge hath been near three months in this Town, and perhaps not yet come to your view. Conſider of it, and ſee, if all your own ſee<g ref="char:EOLhyphen"/>kings, both from Our Hand, and another in par<g ref="char:EOLhyphen"/>ticulars be not here anſwered. Lay your Hand on your Heart, for are you not thereby convin<g ref="char:EOLhyphen"/>ced? or would you know under what. Govern<g ref="char:EOLhyphen"/>ment the people would reſt moſt ſatisfied, either a Single Perſon, Council of State, Parliament or Army? Appoint ſuch a way as every man may without fear or danger give in his vote un<g ref="char:EOLhyphen"/>diſcovered. To begin only with this Town; Let the Clerk of every Company, or Conſtable of every Ward take a Ticket in Paper from e<g ref="char:EOLhyphen"/>very man, and put it into a Box locked and ſeal<g ref="char:EOLhyphen"/>ed, and you will find Nine parts of Ten encline to that Conſtitution we have lived under above theſe five hundred years: But if not, you will however by this courſe give great ſatisfaction to the People, in letting them have each an oppor<g ref="char:EOLhyphen"/>tunity of declaring their minds, and thereby you will be rightly informed of their affections; which being weighed in the ballance of your judgement, you may with confidence and aſſu<g ref="char:EOLhyphen"/>rance ſteer on a ſtraight courſe to the Haven of Happineſs and Safety.</p>
+                  <p>
+                     <hi>My Lord,</hi> I conceive I have done my duty in declaring my mind, and have no more to ſay, but that you do as God ſhall put in your Heart, and then go on and proſper.</p>
+                  <closer>
+                     <date>Octob. 14. 1659.</date>
+                     <signed>Your Lordſhips moſt humble and faithful Servant, <hi>S. L.</hi>
+                     </signed>
+                  </closer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:180498:5"/>
+                  <p>A LETTER To the Right Honorable The Lord <hi>LAMBERT,</hi> From a Lover of Peace and Truth. Being a moſt faithful Advice how to chuſe the ſafeſt way to the happy Ending of all our Diſtractions.</p>
+                  <p>
+                     <hi>Alſo,</hi> A DECLARATION FROM The KING of <hi>SCOTS,</hi> How the <hi>Army</hi> ſhall be fully ſatisfied all their Arrears, with a large Overplus.</p>
+                  <p>TOGETHER WITH An Aſſurance and Indempnity to all that have been engaged and active in any the late Wars. That all Armies ſhall be disbanded, and his Goverment alwayes regulated by a free and full Parliament, triennially to be cal<g ref="char:EOLhyphen"/>led: And, The People ſecured of their Liberties, and eaſed of all Illegal Burthens and Taxes.</p>
+                  <p>Printed in the Year, 1659.</p>
+               </div>
+            </front>
+            <body>
+               <div type="letter">
+                  <pb facs="tcp:180498:6"/>
+                  <pb n="1" facs="tcp:180498:6"/>
+                  <head>A LETTER to the right honorable The Lord <hi>LAMBERT.</hi>
+                  </head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>LEt it not be a trouble to you to read a few Lines from one unknown, but a much honorer of your Noble Spirit, and therefore deſirous to caſt in his dram of Advice among thoſe many and weighty Debates now before you.</p>
+                  <p>If I ſhould tell you of divers that had a power or capacity to contribute to, or reſtore Peace to theſe Nations, and have neglected the Opportunities, which they have ſince repented of, I am confident you would, even your ſelf, point out the men; namely, <hi>Eſſex, Fairfax, Waller, Maſſey, Browne, Rich, Cromwell,</hi> and others.</p>
+                  <p>
+                     <hi>Sir,</hi> We look upon you at this inſtant as having the whole ſtrength of the Nation in your hands, but if you expect to hold it long, you will be miſera<g ref="char:EOLhyphen"/>bly deceived: Therefore I beſeech you make good uſe of this happy opportunity, and conſider how great you may make your ſelf, and how glorious you will be to poſterity, if you be a means of laying the Government on the ſhoulders of Him that ought to bear it, which will in an inſtant reſtore a happy Peace and Settlement to this diſtracted Na<g ref="char:EOLhyphen"/>tion: Certainly, the greateſt honour, and a better eſtate than any <hi>Engliſh</hi> Subject enjoys ſhall be your reward. But if you doubt how the Souldier and Perſons deeply concerned, that ſhall concur with
+<pb n="2" facs="tcp:180498:7"/>you ſhall be ſecured and ſatisfied; See this Declara<g ref="char:EOLhyphen"/>tion, that to my knowledge hath been neer Three Moneths in this Town, and perhaps not yet come to your view. Are you not thereby convinced, or would you know under what Government the People would reſt moſt ſatisfied, either a Single Perſon, Council of State, Parliament, or Army? Ap<g ref="char:EOLhyphen"/>point ſuch a way as every man may without fear or danger give in his vote undiſcovered: To begin only with this Town; Let the Clerk of every Company, or Conſtable of every Ward, take a Ticket in Pa<g ref="char:EOLhyphen"/>per from every man, and put it into a Box locked and ſealed, and you will find Nine parts of Ten encline to that Conſtitution we have lived under above theſe five hundred years: But if not, you will however by this courſe give great ſatisfaction to the People, in letting them have each an opportunity of declaring their minds, and thereby you will be rightly informed of their affections; which being weighed in the ballance of your judgement, you may with confidence and aſſurance ſteer on a ſtraight courſe to the Haven of Happineſs and Safety.</p>
+                  <p>
+                     <hi>My Lord,</hi> I conceive I have done my duty in declaring my mind, and have no more to ſay, but that you do as God ſhall put in your heart, and then go and proſper.</p>
+                  <closer>
+                     <date>
+                        <hi>Octob.</hi> 14. 1659.</date>
+                     <signed>Your Lordſhips moſt humble and faithful Servant <hi>S. L.</hi>
+                     </signed>
+                  </closer>
+               </div>
+               <div type="letter">
+                  <pb n="3" facs="tcp:180498:7"/>
+                  <opener>
+                     <salute>
+                        <hi>CHARLES</hi> R.</salute>
+                  </opener>
+                  <p>WE having lately received an Overture from ſome per<g ref="char:EOLhyphen"/>ſons in <hi>England,</hi> with a ſeeming pretence of a Peace and Reconcilement betwixt Us and our Subjects of <hi>England,</hi> and although they acknowledge themſelves few in number, and not ſo well reſolved as to truſt us with their Names, yet undertake on the behalf of many thouſands, to make good their propoſitions to us conditionally, that we grant and aſſure unto them, their (as they call them, reaſonable and modeſt) requeſts; whether theſe mens Intentions are juſt and upright, as they pretend, or whether with <hi>Jo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>b's</hi> Salutation to <hi>Abner,</hi> they would entrap us to our deſtruction; or with <hi>Shimei,</hi> come the firſt of all the Houſe of <hi>Joſeph</hi> to meet us, not being able to ſupport themſelves in their decaying Condition, we ſhall not be much deſirous to enquire after: Only from hence we take occaſion to let thoſe perſons, and all the world know, that we are ready to grant to all our Subjects (ſome very few excepted) more then they can have the confidence to expect from us: Yet let not any raſh Judgement condemn us for our large Offers, as being in ſo low, and forlorn a Condition, as never any Chriſtian Prince for many Ages, hath been; That we are forward in promiſes, though intend little or no performance: We ſay, were our calamity more heavy upon us, (which can hardly be) we ſhall not be drawn by the greateſt allurements and advantages to paſſe our engagement for any thing we are not fully reſolved to perform, which being chiefly for the general good and peace of all our Subjects, we can<g ref="char:EOLhyphen"/>not but hope for a happy Succeſſe to enſue, and therefore do de<g ref="char:EOLhyphen"/>clare that (if peaceably receiv'd) we ſhall forthwith grant,</p>
+                  <p n="1">1. A general and free pardon to all (ſeven of thoſe only ex<g ref="char:EOLhyphen"/>cepted, which were the bloody Judges and Murderers of the King our Father.</p>
+                  <p n="2">2. That all the Armies ſhall be within ſix months disbanded, if Moneys for their ſatisfaction can in a Parliamentary way be ſo ſoon raiſed, and that they ſhall have all Arrears fully payed them, and three months pay over and above to every common Soldier, for their better removal and ſettlement, in their former or better way and place of living.</p>
+                  <p n="3">3. That the Armies being ſo ſatisfied and disbanded, no Sol<g ref="char:EOLhyphen"/>dier ſhall be continued, but in the ancient Garriſons, accuſtomed on the Sea Coaſts, and that no new Army ſhall be raiſed, or any
+<pb n="4" facs="tcp:180498:8"/>Fleet by us ſet forth to Sea, upon any occaſion whatſoever, but by conſent of Parliament.</p>
+                  <p n="4">4. That not any of our Subjects ſhall be burdened with Taxes, Exciſe, Free-quarterings, or other illegal payments or preſſures, or any Oaths impoſed, nor any debarred of their Liberties, queſtioned for their Lives or Eſtates, for any cauſe or pretence whatſoever, but by the ancient and known Laws of the Land, ac<g ref="char:EOLhyphen"/>cording to <hi>Magna Charta,</hi> and the Petition of Right.</p>
+                  <p n="5">5. That the Purchaſers of Crown Lands and Rents being ſatis<g ref="char:EOLhyphen"/>fied their purchaſe mony and Intereſts by the Profits thereof, and further payment to their full Reimburſement: The ſaid Lands and Rents may return to the Crown again; we being reſolved in the mean time to caſt our Self on the Love of our Subjects for our fu<g ref="char:EOLhyphen"/>ture ſupport: And if the Parliament (that ſhal next be called) ſhal not think fit to give us a reparation, &amp; ſuch a competent revenue as we might expect, we have learned, and ſhal ſubmit (if there be occaſion) to the Condition of the meaneſt of our Predeceſſors.</p>
+                  <p n="6">6. That the purchaſers of Biſhops, and Deans and Chapters Lands, and Rents, being in like ſort ſatisfied their purchaſe mo<g ref="char:EOLhyphen"/>ny and Intereſt by the profits and further payment, till they be re<g ref="char:EOLhyphen"/>imburſed, that then the ſaid Lands and Rents ſhall be conferred on the Clergy and Miniſtery, as the next Parliament ſhall ordain.</p>
+                  <p n="7">7. That as ſoon as Writs can be iſſued, a free and legal Parlia<g ref="char:EOLhyphen"/>ment ſhall be ſummoned, and the Privileges thereof maintained, without any exemption to any perſon whatſoever, being legally choſen and returned, according to the ancient Laws and Cuſtomes of <hi>EngLand</hi> in that caſe provided.</p>
+                  <p n="8">8. That the Parliament ſhall be deſired by us (and with whom we ſhal concur, to take care for the ſetling of the Proteſtant Re<g ref="char:EOLhyphen"/>ligion, and the publick worſhip of God (with liberty for tender Conſciences,) and for the providing for the Miniſtry in the firſt place, as being the moſt weighty affair, and ought to be preferred before any other Concernment whatſoever, without which no bleſſing from above can be expected upon our Government.</p>
+                  <p n="9">9. That if the Parliament ſhall paſſe an Act of general pardon, (and if they ſhall deſire thoſe ſeven perſons by us intended to be executed, ſhall be included, and giving us ſatisfactory reaſons for the ſame) we ſhall concur with them therein.</p>
+                  <p n="10">10. That the Affairs of the Land and our Government, ſhall be conſtantly regulated and managed by Parliaments, and that the Act for Triennial Parliaments ſhall be by us duly obſerved.</p>
+                  <pb n="5" facs="tcp:180498:8"/>
+                  <p>We acknowledge it is very difficult, if not impoſſible to pleaſe all, eſpecially where there are ſo many diviſions, and every man almoſt of a ſeveral mind and opinion: But as we have propoſed to our Self, ſo ſhall we endevour to give all reaſona<g ref="char:EOLhyphen"/>ble Satisfaction to all our Subjects. And if the Actings of the Repreſentatives in a Free Parliament of their own choice can ſa<g ref="char:EOLhyphen"/>tisfie them, we ſhall not be wanting in ſummoning and concur<g ref="char:EOLhyphen"/>ring with them: But if that will not pleaſe them, nothing will.</p>
+                  <p>Now, if theſe condeſcentions of ours ſhall have ſo much free<g ref="char:EOLhyphen"/>dome of paſſage in <hi>England,</hi> as many a ſcurrilous and lying Pamphlet flye abroad without our control, we are confident that all of underſtanding, that are not wilfully blinded, or not over-ſwayed with preſent ſelf-intereſt, thereby knowing our large Offers, muſt needs be fully convinced of the amplitude thereof, extending to all their grievances.</p>
+                  <p>However, if it ſhall be inſtanced wherein we are two ſhort, (for we are ready for the Good, and Peace of the Nation, to give large ſatisfaction, and ample aſſurance to our moſt invete<g ref="char:EOLhyphen"/>rate Enemies;) We having yielded to all matters of moſt im<g ref="char:EOLhyphen"/>portance, ſhall not ſtick at leſſer things.</p>
+                  <p>And if any that have been adherers and aſſiſting to our late royal Father and us, ſhall think we are herein to free and indulgent to ſuch, and ſo many open and profeſſed Enemies; and that we have made no proviſion for our Servants, and Friends; we deſire them all to conſider our own, and alſo their Conditions, and how things now ſtand in <hi>England;</hi> That neither we, nor them<g ref="char:EOLhyphen"/>ſelves, can otherwiſe (in any probability) better our ſelves, unleſs by a bloody and hazzardous War; which though we cannot doubt of the lawfulneſs on our part, and conſequently a pro<g ref="char:EOLhyphen"/>ſperous ſucceſs, if we ſhall be neceſſitated thereto for the recovery of our juſt right, yet we are aſſured that the God of peace will rather proſper a peaceable then violent and forceable entrance: And therefore we hope all thoſe our friends, and lo<g ref="char:EOLhyphen"/>ving Sujects, will reſt fully ſatisfied with what we ſhall do purſu<g ref="char:EOLhyphen"/>ant to theſe propoſitions, we being deſirous hereafter to conſi<g ref="char:EOLhyphen"/>der their ſufferings (though not comparable to ours) as God ſhall enable, and in all juſt and lawful ways.</p>
+                  <p>And now we wiſh that all the people of <hi>England</hi> would re<g ref="char:EOLhyphen"/>member how they have performed their Proteſtations, Oaths, Vows, Solemn League and Covenant: But to inſtance in no
+<pb n="6" facs="tcp:180498:9"/>more then the Honour and Priviledges of Parliament, the foun<g ref="char:EOLhyphen"/>dation of all their laws, which they have ſo often ſworn and vowed to maintain with their lives and fortunes: What face of a Parliament they have now left, which ſhould conſiſt of three Eſtates, King, Houſe of Peers, and Houſe of Commons: The two firſt wholly deſtroyed: And what of the laſt is in being (not to mention at leaſt 150 that at the beginning of the Wars left them and went to <hi>Oxford</hi>) when a conſiderable number of their own party proteſted againſt their proceedings and deſerted the Houſe: How many impriſoned, and what great numbers by force expulſed by that late bloody &amp; hypocritical Uſurper, which actions of his (though they were a main ſtep to his intended Throne and Tyrannical Government) yet are ſo well reliſhed, by that Tail of a Parliament remaining, that they are reſolved nei<g ref="char:EOLhyphen"/>ther to readmit the perſons ſo illegally and injuriouſly expelled, nor to fill the up the void places of any removed or dead; ſo that in a few years, what by death, and new expulſions, they may reduce themſelves to the number of thoſe infamous Tyrants of <hi>Athens,</hi> and if they can eſtabliſh themſelves by their deſigned <hi>Militia,</hi> and that they may thereby be able to command their now Maſters the Sword-men, and Caſhire them, they will mod<g ref="char:EOLhyphen"/>dle ſuch a new Army as ſhall be in ſubjection to them, and then Vote Themſelves their Sons, and Nephews, a Parliament for ever.</p>
+                  <p>Let thoſe that have generous <hi>Engliſh</hi> Spirits ſeriouſly conſider into what a Labyrinth of woe and miſery they have run them<g ref="char:EOLhyphen"/>ſelves and now lye under; what a confuſion there is in Church and State; that what hath been gotten by blood and rapine, muſt be ſo upheld. The Government theſe Uſurpers would ſettle, not being to be maintained, but by continual Armies and Navies, and the ſupport of thoſe muſt be Taxes, Exciſe, Free-quarterings, and chargeable <hi>Militia's,</hi> and other unſupportable burdens to per<g ref="char:EOLhyphen"/>petuity.</p>
+                  <p>Now let the whole Nation beg and implore a bleſſing from the Father of Mercies, and let them all be of one heart and one mind, to free themſelves of theſe Iron yokes and heavy preſſures, and joyn and concur with us, in eſtabliſhing a peaceable Govern<g ref="char:EOLhyphen"/>ment, to the great joy and happineſſe of the honeſt and true-hearted, and to the advancement of the true Proteſtant Religion and Gods glory. And let them all unanimouſly with one Voyce ſay, <hi>Amen.</hi>
+                  </p>
+                  <p>A true Copy taken from the Original.</p>
+                  <trailer>FINIS.</trailer>
+                  <pb facs="tcp:180498:9"/>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
